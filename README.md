@@ -1,9 +1,7 @@
 # Guruprasad-Dev-Portfolio
-
 Welcome to my Developer Portfolio. This project showcases my skills, projects, and experiences as a Fullstack Software Developer.
 
 ## Deployed Link
-
 https://guruprasad-dev.netlify.app/
 
 ## Table of Contents
@@ -35,8 +33,8 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone `
-2. Navigate to the project directory: `cd `
+1. Clone the repository: `git clone https://github.com/guruprasad9610/Guruprasad-Dev-Portfolio.git`
+2. Navigate to the project directory: `cd Guruprasad-Dev-Portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
