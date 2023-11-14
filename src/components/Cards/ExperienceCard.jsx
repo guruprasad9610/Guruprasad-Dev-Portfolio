@@ -173,7 +173,7 @@ const ExperienceCard = ({ experience }) => {
                         </Skills>
                     </>
                 }
-                <b>Certificate :-</b>
+                {/* <b>Certificate :-</b> */}
 
             </Description>
             {experience.doc &&
