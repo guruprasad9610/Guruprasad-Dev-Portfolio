@@ -2,7 +2,7 @@
 Welcome to my Developer Portfolio. This project showcases my skills, projects, and experiences as a Fullstack Software Developer.
 
 ## Deployed Link
-https://guruprasad-dev.netlify.app/
+https://guruprasad-dev.netlify.app
 
 ## Table of Contents
 - [Introduction](#introduction)
