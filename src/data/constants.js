@@ -61,8 +61,12 @@ export const skills = [
     title: "Backend",
     skills: [
       {
-        name: "C Programming",
+        name: "C Sharp",
         image: "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png",
+      },
+      {
+        name: "ASP.Net",
+        image: "https://seeklogo.com/images/M/microsoft-net-logo-631EFE744A-seeklogo.com.png",
       },
       {
         name: "Java",
@@ -108,8 +112,8 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg",
       },
       {
-        name: "Google Cloud",
-        image: "https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png",
+        name: "SQL Server",
+        image: "https://seeklogo.com/images/A/azure-sql-managed-instance-logo-D33A77DD5E-seeklogo.com.png",
       },
       {
         name: "Azure",
@@ -237,7 +241,7 @@ export const experiences = [
     role: "Software Developement Engineer",
     company: "Logyscal Soutions Pvt. Ltd.",
     date: "November 2023 - Present",
-    desc: "I have joined Logyscal Soutions as a Software Developement Engineer. I have involved in the design user interfaces and development of android mobile applications and business applications to solve real-life problems.",
+    desc: "I have joined Logyscal Soutions as a Software Developement Engineer. I have involved in the Design User Interfaces and Development of Web applications, Mobile applications and Business applications to solve real-life problems.",
     skills: [
       "OOPs",
       "Java",
@@ -246,18 +250,12 @@ export const experiences = [
       "JavaScript",
       "jQuery",
       "Bootstrap",
-      "React Js",
-      "Angular",
-      "TypeScript",
-      "NodeJS",
-      "ExpressJS",
-      "MongoDB",
       "NoSQL",
       "Firebase",
-      "Google Cloud",
       "Android Studio",
       "Git",
       "GitLab",
+      "SQL Server",
       "C#",
       "ASP.NET",
       "WebAPI",
@@ -407,7 +405,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://scontent.fbbi1-1.fna.fbcdn.net/v/t39.30808-6/304946122_513259780800130_4903227553023719575_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hfwFXdHjnFsAX9ufj6h&_nc_ht=scontent.fbbi1-1.fna&oh=00_AfAgfBQcX3Awny6Lfuy_za_IOC3N_TERnX5h-oVR-wPA9g&oe=6557B501",
+    img: "https://scontent.fbbi1-1.fna.fbcdn.net/v/t39.30808-6/304946122_513259780800130_4903227553023719575_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PueUTJXrEQ8AX8df95Y&_nc_ht=scontent.fbbi1-1.fna&oh=00_AfCbfzsjfmDRTO3uiDiPer0ZKXZ7ZqNOeLVtbC4gCH12sQ&oe=655DA3C1",
     school: "Sai Gurukul School, Bhanjanagar, Odisha",
     date: "April 2015 - March 2016",
     grade: "72.80%",
