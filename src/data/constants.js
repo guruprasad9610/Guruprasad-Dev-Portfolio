@@ -204,6 +204,11 @@ export const skills = [
           "https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg",
       },
       {
+        name: "Visual Studio",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/640px-Visual_Studio_Icon_2022.svg.png",
+      },
+      {
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
@@ -279,7 +284,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/C510BAQFoU3-R-5C1Vw/company-logo_200_200/0/1564633358835?e=2147483647&v=beta&t=PiiBqIC9NbkSU4rj7Tb8pl6YGAF3m-e4h0d-aGSEuyc",
-    role: "Full Stack Software Developer",
+    role: "Software Developer",
     company: "Ajatus Software Pvt. Ltd.",
     date: "June 2023 - October 2023",
     desc: "I have joined Ajatus Software as a Full-stack Software Developer. I was involved in the design user interfaces and development of web applications, mobile applications, business websites, and admin dashboards to solve real-life problems. I have designed the user interface for four mobile applications, three websites & web applications and two admin dashboards by using Figma and Penpot . Additionally , I have developed two web applications using MEAN stack , two mobile applications using Angular , Ionic , Capacitor & Android Studio and an e-commerce website & an admin damin dashboard using MERN stack.",
