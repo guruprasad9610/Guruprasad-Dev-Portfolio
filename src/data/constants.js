@@ -424,7 +424,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQG_J92EEZ7NYw/company-logo_200_200/0/1642060139232/logyscal_solutions_logo?e=1707955200&v=beta&t=dL3KtPkVas2m5xHkXa5x9rljzKvYN_CKsCQ3WVqkIgk",
+    img: "https://media.licdn.com/dms/image/C560BAQG_J92EEZ7NYw/company-logo_200_200/0/1642060139232/logyscal_solutions_logo?e=1717632000&v=beta&t=eY-2KyI75u-ZdFPAHRSXQ6r4DkVQc88zs_s8b1ddbZU",
     role: "Software Engineer | Content Creator",
     company: "Logyscal Soutions Pvt. Ltd.",
     date: "November 2023 - Present",
@@ -622,7 +622,7 @@ export const education = [
   },
   {
     id: 4,
-    img: "https://scontent.fbbi5-3.fna.fbcdn.net/v/t39.30808-1/304946122_513259780800130_4903227553023719575_n.jpg?stp=c0.0.320.320a_dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=596444&_nc_ohc=ThB6hQM9h9wAX-BINiz&_nc_ht=scontent.fbbi5-3.fna&oh=00_AfAHwR2Nj7GQHo4SDdr0TLyv7UxC7V8EUA5JdQTrh0fiDw&oe=65B9DF87",
+    img: "https://scontent.fbbi5-3.fna.fbcdn.net/v/t39.30808-6/304946122_513259780800130_4903227553023719575_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=P5_EPuiccNsAX_8mTFX&_nc_ht=scontent.fbbi5-3.fna&oh=00_AfCEE4IPyIqU1M-4LON7xLp2AkO9z7RxlO8zwBryYbfY7g&oe=65EE0001",
     school: "Sai Gurukul School, Bhanjanagar, Odisha",
     date: "April 2015 - March 2016",
     grade: "72.80%",
