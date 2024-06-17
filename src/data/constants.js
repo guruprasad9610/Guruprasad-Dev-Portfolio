@@ -7,8 +7,8 @@ export const Bio = {
     "Full Stack Developer",
     "Android Developer",
     "UI/UX Designer",
-    "Programmer",
     "Content Creator",
+    "Programmer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -100,16 +100,6 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
       },
       {
-        name: "Penpot",
-        image:
-          "https://seeklogo.com/images/E/education-colour-pencil-logo-F199DAED6C-seeklogo.com.png",
-      },
-      {
-        name: "AdobeXD",
-        image:
-          "https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png",
-      },
-      {
         name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
@@ -141,9 +131,9 @@ export const skills = [
           "https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png",
       },
       {
-        name: "Android Studio",
+        name: "XML",
         image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+          "https://cdn-icons-png.flaticon.com/512/9496/9496555.png",
       },
       {
         name: "Kotlin",
@@ -151,14 +141,9 @@ export const skills = [
           "https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png",
       },
       {
-        name: "Jetpack Compose",
+        name: "Android Studio",
         image:
-          "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png",
-      },
-      {
-        name: "XML",
-        image:
-          "https://cdn-icons-png.flaticon.com/512/9496/9496555.png",
+          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
       },
     ],
   },
@@ -203,42 +188,6 @@ export const skills = [
         name: "Netlify",
         image:
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
-      },
-    ],
-  },
-
-  {
-    title: "Microsoft Tools",
-    skills: [
-      {
-        name: "Dynamics 365",
-        image:
-          "https://seeklogo.com/images/M/microsoft-dynamics-365-logo-86E22AFA57-seeklogo.com.png",
-      },
-      {
-        name: "Power Platform",
-        image:
-          "https://seeklogo.com/images/M/microsoft-power-platform-logo-4E514E7575-seeklogo.com.png",
-      },
-      {
-        name: "Office 365",
-        image:
-          "https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png",
-      },
-      {
-        name: "Microsoft 365",
-        image:
-          "https://seeklogo.com/images/M/microsoft-365-2022-logo-7B23759A49-seeklogo.com.png",
-      },
-      {
-        name: "Visual Studio",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/640px-Visual_Studio_Icon_2022.svg.png",
-      },
-      {
-        name: "VS Code",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
       },
     ],
   },
@@ -303,7 +252,7 @@ export const skills = [
           "https://seeklogo.com/images/C/chatgpt-logo-6E960AECFF-seeklogo.com.png",
       },
       {
-        name: "Google BARD",
+        name: "Gemini",
         image:
           "https://seeklogo.com/images/G/google-bard-logo-2D24045D5B-seeklogo.com.png",
       },
@@ -315,7 +264,44 @@ export const skills = [
       {
         name: " Microsoft Designer",
         image:
-          "https://seeklogo.com/images/M/microsoft-designer-logo-B9805F5D88-seeklogo.com.png",
+          "https://play-lh.googleusercontent.com/80aI7JXWoNyBxh4VQBoPqwXtesr7JMq5-3J-LkVWhMnpaP1P8PkqkDpiK_--W23GvDo",
+      },
+    ],
+  },
+
+  {
+    title: "Microsoft Tools",
+    skills: [
+      {
+        name: "VS Code",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+      },
+      {
+        name: "Visual Studio",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/640px-Visual_Studio_Icon_2022.svg.png",
+      },
+
+      {
+        name: "Office 365",
+        image:
+          "https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png",
+      },
+      {
+        name: "Microsoft 365",
+        image:
+          "https://seeklogo.com/images/M/microsoft-365-2022-logo-7B23759A49-seeklogo.com.png",
+      },
+      {
+        name: "Dynamics 365",
+        image:
+          "https://seeklogo.com/images/M/microsoft-dynamics-365-logo-86E22AFA57-seeklogo.com.png",
+      },
+      {
+        name: "Power Platform",
+        image:
+          "https://seeklogo.com/images/M/microsoft-power-platform-logo-4E514E7575-seeklogo.com.png",
       },
     ],
   },
@@ -324,24 +310,14 @@ export const skills = [
     title: "Dynamics 365 CE",
     skills: [
       {
-        name: "Customer Service",
-        image:
-          "http://dynamicssolution.com/wp-content/uploads/2020/08/Customer-Service.svg",
-      },
-      {
-        name: "Field Service",
-        image:
-          "http://dynamicssolution.com/wp-content/uploads/2020/08/Field-Service.svg",
-      },
-      {
         name: "Sales",
         image:
           "http://dynamicssolution.com/wp-content/uploads/2020/08/Sales.svg",
       },
       {
-        name: "Project Service Automation",
+        name: "Customer Service",
         image:
-          "http://dynamicssolution.com/wp-content/uploads/2020/08/Project-Service-Automation.svg",
+          "http://dynamicssolution.com/wp-content/uploads/2020/08/Customer-Service.svg",
       },
       {
         name: "Marketing",
@@ -349,19 +325,14 @@ export const skills = [
           "http://dynamicssolution.com/wp-content/uploads/2020/08/Marketing.svg",
       },
       {
-        name: "Project Operations",
+        name: "Field Service",
         image:
-          "http://dynamicssolution.com/wp-content/uploads/2020/08/Project-Operations.svg",
+          "http://dynamicssolution.com/wp-content/uploads/2020/08/Field-Service.svg",
       },
       {
-        name: "Customer Insights",
+        name: "Project Service Automation",
         image:
-          "http://dynamicssolution.com/wp-content/uploads/2020/08/Vector-Smart-Object-1-3.svg",
-      },
-      {
-        name: "Sales Insights",
-        image:
-          "http://dynamicssolution.com/wp-content/uploads/2020/08/Vector-Smart-Object-11.svg",
+          "http://dynamicssolution.com/wp-content/uploads/2020/08/Project-Service-Automation.svg",
       },
     ],
   },
@@ -375,9 +346,9 @@ export const skills = [
           "https://static.wixstatic.com/media/3536c6_9a603c25269f487ea90f625775c5e2d8~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PowerAppIcon.png",
       },
       {
-        name: "Power Automate",
+        name: "Dataverse",
         image:
-          "https://static.wixstatic.com/media/3536c6_5c83e0e808aa41c194ecec6e933a31c2~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PowerAutomate.png",
+          "https://www.avantiico.com/wp-content/uploads/2021/12/Dataverse_1600x1600.png",
       },
       {
         name: "Power Pages",
@@ -385,24 +356,14 @@ export const skills = [
           "https://static.wixstatic.com/media/3536c6_94c3e33c43b3448bb484a952542718e9~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PowerPages.png",
       },
       {
-        name: "Data Connector",
-        image:
-          "https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png",
-      },
-      {
-        name: "Power Virtual Agent",
-        image:
-          "https://static.wixstatic.com/media/3536c6_7ff145a68b1b43ddbd2ec7f4b34a490c~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VirutalAgents.png",
-      },
-      {
-        name: "Dataverse",
-        image:
-          "https://www.avantiico.com/wp-content/uploads/2021/12/Dataverse_1600x1600.png",
-      },
-      {
-        name: "PowerBI",
+        name: "Power BI",
         image:
           "https://static.wixstatic.com/media/3536c6_f210c9c3a5944ec7b661ea14900d6588~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PowerBI.png",
+      },
+      {
+        name: "Power Automate",
+        image:
+          "https://static.wixstatic.com/media/3536c6_5c83e0e808aa41c194ecec6e933a31c2~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PowerAutomate.png",
       },
       {
         name: "Power Fx",
@@ -410,11 +371,15 @@ export const skills = [
           "https://static.wixstatic.com/media/816382_bd664a10b4ec4239b7f9739dbd210863~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/816382_bd664a10b4ec4239b7f9739dbd210863~mv2.png",
       },
       {
+        name: "Copilot Studio",
+        image:
+          "https://a.fsdn.com/allura/s/power-virtual-agents/icon?2870d8956e754b3cbe5f40fe2072d58e6cbcb872413cebf4b5b99e2d410f790a?&w=222",
+      }, 
+      {
         name: "AI Builder",
         image:
           "https://static.wixstatic.com/media/3536c6_4a6b599bcd89434e820c464274e3884a~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AIBuilder.png",
       },
-
     ],
   },
 ];
@@ -424,7 +389,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQG_J92EEZ7NYw/company-logo_200_200/0/1642060139232/logyscal_solutions_logo?e=1717632000&v=beta&t=eY-2KyI75u-ZdFPAHRSXQ6r4DkVQc88zs_s8b1ddbZU",
+    img: "https://media.licdn.com/dms/image/C560BAQG_J92EEZ7NYw/company-logo_200_200/0/1642060139232/logyscal_solutions_logo?e=1726704000&v=beta&t=3QhSjl9VKt2qA-ZkTuewGql0VHYDDFKG518anq2xptY",
     role: "Software Engineer | Content Creator",
     company: "Logyscal Soutions Pvt. Ltd.",
     date: "November 2023 - Present",
@@ -563,22 +528,6 @@ export const experiences = [
       "Tailwind CSS",
     ],
   },
-  {
-    id: 8,
-    img: "https://media.licdn.com/dms/image/D4D0BAQGSxYITXvRdOw/company-logo_200_200/0/1700686352736?e=1714608000&v=beta&t=KwKPxWqVZhc4cP32U8iCeaCsX2W-mlvxhtgGyoEcVmo",
-    role: "Content Creator",
-    company: "Softeath Learn", 
-    date: "December 2021 - May 2022",
-    desc: "As a content creator at Softeath Learn, I passionately imparted knowledge on programming languages, databases, and OOP concepts. Crafting engaging and comprehensive materials, I facilitated effective learning experiences for students. My role involved demystifying complex topics and fostering a dynamic educational environment, contributing to the growth of aspiring developers.",
-    skills: [
-      "C Programming",
-      "OOPS Concept",
-      "Java",
-      "DBMS",
-      "SQL",
-    ],
-    doc: "https://www.youtube.com/@softeathlearn",
-  },
 ];
 
 // EDUCATION
@@ -586,7 +535,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4E0BAQHYZlOeYLCTqg/company-logo_200_200/0/1639308105762?e=1714608000&v=beta&t=rME1vBP6Jq1m9S8dyqcYSdwh0mAMsIedb8SWsKYAhQE",
+    img: "https://media.licdn.com/dms/image/C4E0BAQHYZlOeYLCTqg/company-logo_200_200/0/1639308105762?e=1726704000&v=beta&t=62b3WJHDTDlLYwsPbBm7MXctgbYYrAj-epf63jP2LSU",
     school: "Softchief Learn Pvt. Ltd., Bhubaneswar, Odisha",
     date: "November 2023 - Present",
     grade: "Microsoft Dynamics365 CE, Power Platform, C#, ASP Dot NET, SQL Server, Azure",
@@ -595,7 +544,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4E0BAQEaduRrmJ3icw/company-logo_200_200/0/1631329181773?e=1714608000&v=beta&t=yO3PKZC64RI51UkdlvEfv0L5btUzXI9-ys3Fi1sCgc8",
+    img: "https://media.licdn.com/dms/image/C4E0BAQEaduRrmJ3icw/company-logo_200_200/0/1631329181773?e=1726704000&v=beta&t=pHuPJl9iPne2eaZsRxlpI9coz34LKpL6l3JL1FjKSHc",
     school: "Biju Patnaik University of Technology, Odisha",
     date: "October 2021 - November 2023",
     grade: "8.97 CGPA",
@@ -604,7 +553,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C510BAQEBLFdmVeG_iw/company-logo_200_200/0/1630622067183/berhampur_university_logo?e=1714608000&v=beta&t=aiXJxLgf3ovFhuesI2SyfmrT7YcQv4MpZZCUsrh7rbo",
+    img: "https://media.licdn.com/dms/image/C510BAQEBLFdmVeG_iw/company-logo_200_200/0/1630622067183/berhampur_university_logo?e=1726704000&v=beta&t=deSqMxPO7GTyDzc2DlgH5AN4sUOi7zTUgZuubwcA6eI",
     school: "Berhampur University, Berhampur, Odisha",
     date: "July 2018 - August 2021",
     grade: "9.20 CGPA",
@@ -622,7 +571,7 @@ export const education = [
   },
   {
     id: 4,
-    img: "https://scontent.fbbi5-3.fna.fbcdn.net/v/t39.30808-6/304946122_513259780800130_4903227553023719575_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=P5_EPuiccNsAX_8mTFX&_nc_ht=scontent.fbbi5-3.fna&oh=00_AfCEE4IPyIqU1M-4LON7xLp2AkO9z7RxlO8zwBryYbfY7g&oe=65EE0001",
+    img: "https://scontent.fbbi5-3.fna.fbcdn.net/v/t39.30808-1/304946122_513259780800130_4903227553023719575_n.jpg?stp=c0.0.160.160a_dst-jpg_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XuVuPggOVigQ7kNvgHg45TB&_nc_ht=scontent.fbbi5-3.fna&oh=00_AYAt2rarGaLwNskkX2KNj2rnbVUx6JlHYBa6vulc-OYIZQ&oe=6675BD47",
     school: "Sai Gurukul School, Bhanjanagar, Odisha",
     date: "April 2015 - March 2016",
     grade: "72.80%",
