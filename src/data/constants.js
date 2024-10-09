@@ -11,7 +11,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "A versatile individual, always eager to take on new challenges and passionate about learning. Committed to delivering high-quality results with a positive attitude and a growth mindset.",
   github: "https://linktr.ee/guruprasad9610",
   resume:
     "https://linktr.ee/guruprasad9610",
@@ -389,7 +389,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQG_J92EEZ7NYw/company-logo_200_200/0/1642060139232/logyscal_solutions_logo?e=1726704000&v=beta&t=3QhSjl9VKt2qA-ZkTuewGql0VHYDDFKG518anq2xptY",
+    img: "https://media.licdn.com/dms/image/v2/C560BAQG_J92EEZ7NYw/company-logo_200_200/company-logo_200_200/0/1642060139232/logyscal_solutions_logo?e=1736380800&v=beta&t=TzOpiMKVi9mk_AsD0zPW-aNmm2Ly1WORhjDBGqfsSfY",
     role: "Software Engineer | Content Creator",
     company: "Logyscal Soutions Pvt. Ltd.",
     date: "November 2023 - Present",
@@ -456,7 +456,7 @@ export const experiences = [
       "Ionic",
       "Capacitor",
     ],
-    doc: "https://drive.google.com/file/d/1Eqa7sd4orEYjY7VIuAu0E1PBAywj_xI3/view?usp=sharing",
+    doc: "https://recyclepay.ceibagreen.com/",
   },
   {
     id: 3,
@@ -535,7 +535,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4E0BAQHYZlOeYLCTqg/company-logo_200_200/0/1639308105762?e=1726704000&v=beta&t=62b3WJHDTDlLYwsPbBm7MXctgbYYrAj-epf63jP2LSU",
+    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHYZlOeYLCTqg/company-logo_200_200/company-logo_200_200/0/1639308105762?e=1736380800&v=beta&t=6fVUHaRFg1IS9bcktuQPsFCqAxskgtrsJY6jcwbGHgs",
     school: "Softchief Learn Pvt. Ltd., Bhubaneswar, Odisha",
     date: "November 2023 - Present",
     grade: "Microsoft Dynamics365 CE, Power Platform, C#, ASP Dot NET, SQL Server, Azure",
@@ -544,7 +544,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4E0BAQEaduRrmJ3icw/company-logo_200_200/0/1631329181773?e=1726704000&v=beta&t=pHuPJl9iPne2eaZsRxlpI9coz34LKpL6l3JL1FjKSHc",
+    img: "https://media.licdn.com/dms/image/v2/C4E0BAQEaduRrmJ3icw/company-logo_200_200/company-logo_200_200/0/1631329181773?e=1736380800&v=beta&t=uI33jDO3rz9ZLsAh6LbUh5HEO58Qd1ozy_KeENLNvIo",
     school: "Biju Patnaik University of Technology, Odisha",
     date: "October 2021 - November 2023",
     grade: "8.97 CGPA",
@@ -553,7 +553,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C510BAQEBLFdmVeG_iw/company-logo_200_200/0/1630622067183/berhampur_university_logo?e=1726704000&v=beta&t=deSqMxPO7GTyDzc2DlgH5AN4sUOi7zTUgZuubwcA6eI",
+    img: "https://media.licdn.com/dms/image/v2/C510BAQEBLFdmVeG_iw/company-logo_200_200/company-logo_200_200/0/1630622067183/berhampur_university_logo?e=1736380800&v=beta&t=JxapsAqD_m1V3OoruFxEvjOoKilXxczBTysdZilW6_s",
     school: "Berhampur University, Berhampur, Odisha",
     date: "July 2018 - August 2021",
     grade: "9.20 CGPA",
@@ -571,7 +571,7 @@ export const education = [
   },
   {
     id: 4,
-    img: "https://scontent.fbbi5-3.fna.fbcdn.net/v/t39.30808-1/304946122_513259780800130_4903227553023719575_n.jpg?stp=c0.0.160.160a_dst-jpg_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XuVuPggOVigQ7kNvgHg45TB&_nc_ht=scontent.fbbi5-3.fna&oh=00_AYAt2rarGaLwNskkX2KNj2rnbVUx6JlHYBa6vulc-OYIZQ&oe=6675BD47",
+    img: "https://scontent.fbbi1-1.fna.fbcdn.net/v/t39.30808-6/461199697_1062356839223752_6390104465399926081_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=tnz2yFwaynYQ7kNvgF6KrkW&_nc_ht=scontent.fbbi1-1.fna&_nc_gid=AUgu12ZBCBrqTC0ps1liN5L&oh=00_AYBv1y41fOiKmRYbNUux7Qlny-5I9t8yGEhtS8kE17X4nw&oe=670C1D45",
     school: "Sai Gurukul School, Bhanjanagar, Odisha",
     date: "April 2015 - March 2016",
     grade: "72.80%",
